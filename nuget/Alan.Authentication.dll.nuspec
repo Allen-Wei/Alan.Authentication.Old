@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>Alan.Authentication</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Alan Wei</authors>
     <owners>Alan Wei</owners>
-    <licenseUrl>https://github.com/Allen-Wei/Alan.Authentication</licenseUrl>
-    <projectUrl>https://github.com/Allen-Wei/Alan.Authentication</projectUrl>
+    <licenseUrl>https://github.com/Allen-Wei/Alan.Authentication.Old</licenseUrl>
+    <projectUrl>https://github.com/Allen-Wei/Alan.Authentication.Old</projectUrl>
     <iconUrl>https://avatars0.githubusercontent.com/u/2927578</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Authentication for Web Develop</description>
